@@ -63,8 +63,8 @@ git clone https://github.com/Nikhilcyb-web/Tic-Tac-Toe-Game.git
 
 
 ```md
-![Tic Tac Toe Screenshot](screenshot.png)
-![Tic Tac Toe Screenshot](screenshots.png)
+![Tic Tac Toe Screenshot](Screenshot.png)
+![Tic Tac Toe Screenshot](Screenshots.png)
 ```
 
 ---
